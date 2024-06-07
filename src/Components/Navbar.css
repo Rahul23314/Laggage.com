@@ -1,0 +1,10 @@
+
+.Navbar {
+  width: auto; /* Adjust the width as needed */
+  height: 90px; /* Adjust the height as needed */
+  position: absolute;
+  top: 0;
+  left: 2rem;
+  padding: 0; /* Remove any default padding */
+  margin: 0; /* Remove any default margin */
+}
